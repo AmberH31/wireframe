@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: #ebebeb;
+}
+h1{
+    font: 25px arial, sans-serif;
+    color: #fff;
+    text-align: center;
+    
+}
+
+header{
+    width: 75%;
+    /* width: 960px; */
+    /* max-width: auto; */
+    height: 80px;
+    background: #777;
+    margin:0 auto 10px auto;  
+}
+
+nav{
+    width: 75%;
+    height: 80px;
+    background: #777;
+    text-align: center;
+    margin:0px auto;
+}
+
+#box{
+    width: 75%;
+    height: 150px;
+    /* background: rgb(167, 167, 167); */
+    margin: 20px auto;
+}
+section{
+    width: 48%;
+    height: 200px;
+    float: left;
+    background: #777;
+}
+
+
+aside{
+    width: 49%;
+    height: 200px;
+    float: right;
+    background: #777;
+    
+}
+
+#article{
+    height: 130px;
+    margin: 20px;
+    background: #ddd;
+}
+
+#p{
+    background: #aaa;
+    position: relative;
+    margin: 10px;
+}
+
+#h{
+    background: #aaa;
+    position: relative;
+    margin: 10px;
+}
+
+footer{
+    width: 75%;
+    height: 80px;
+    background: #777;
+    text-align: center;
+    margin:80px auto;  /*這邊要怎麼才能調整高度 */
+    overflow: hidden;
+    /* border: 1px solid #754; */
+}
+
+
+
